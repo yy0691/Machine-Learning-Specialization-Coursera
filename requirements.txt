@@ -1,0 +1,4 @@
+# requirements.txt
+# AI翻译脚本依赖包
+
+requests>=2.25.0
